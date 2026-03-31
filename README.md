@@ -1,24 +1,37 @@
-Olá, eu sou o Vinicius Sousa! 👋
+# Olá, meu nome é Vinicius Sousa! 👋
 
-Atualmente cursando o 7º semestre de Engenharia de Software e trabalhando como Estagiário de TI na ADN.TECH. Sou apaixonado por transformar lógica em soluções reais, com foco especial em arquiteturas escaláveis e experiências de usuário fluidas.
+Atualmente cursando o **7º semestre de Engenharia de Software** e trabalhando como Estagiário de TI na **ADN.TECH**. Sou apaixonado por transformar lógica em soluções reais, com foco especial em arquiteturas escaláveis e experiências de usuário fluidas.
 
-2. O que estou estudando/trabalhando
-🔭 Atualmente focado em Desenvolvimento Full-Stack.
+---
 
-🌱 Aprofundando conhecimentos em Java, Spring Boot, C#, Web, e Cloud Computing.
+## 🚀 O que estou estudando/trabalhando
 
-3. Minha Stack Tecnológica
+- 🔭 Atualmente focado em **Desenvolvimento Full-Stack**.
+- 🌱 Aprofundando conhecimentos em **Java**, **Spring Boot**, **C#**, **Web** e **Cloud Computing**.
 
-Backend: Java (Spring Boot, JPA, Security), C#, Node.js, SQL (PostgreSQL, MySQL).
+---
 
-Frontend: React, Next.js, TypeScript, Tailwind CSS, Thymeleaf.
+## 🛠️ Minha Stack Tecnológica
 
-Ferramentas: Git, Docker, Azure, Jira/Zendesk.
+**Backend:**
+- Java (Spring Boot, JPA, Security), C#, Node.js, SQL (PostgreSQL, MySQL).
 
-4. Projetos em Destaque
+**Frontend:**
+- React, Next.js, TypeScript, JavaScript, Tailwind CSS, Thymeleaf.
 
-Barbearia Premium: Agendamento Full-Stack com Next.js e Supabase.
+**Ferramentas:**
+- Git, Docker, Azure, Jira/Zendesk.
 
-Helpdesk System: API em Spring Boot + Frontend em React.
+---
 
-IT Manager: Gestão de ativos com Java e Thymeleaf.
+## 📌 Projetos em Destaque
+
+* **Barbearia Premium:** Agendamento Full-Stack com Next.js e Supabase.
+* **Helpdesk System:** API em Spring Boot + Frontend em React.
+* **IT Manager:** Gestão de ativos com Java e Thymeleaf.
+
+---
+
+## 📫 Vamos nos conectar?
+
+[LinkedIn](https://www.linkedin.com/in/marcos-vinicius-sousa-batista-1544ba270/) | [E-mail](mailto:marcosv2718@gmail.com)
