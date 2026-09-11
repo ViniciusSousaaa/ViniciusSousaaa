@@ -1,34 +1,34 @@
 # Olá, meu nome é Vinicius Sousa! 👋
 
-Atualmente cursando o **7º semestre de Engenharia de Software** e trabalhando como Estagiário de TI na **ADN.TECH**. Sou apaixonado por transformar lógica em soluções reais, com foco especial em arquiteturas escaláveis e experiências de usuário fluidas.
+Atualmente cursando o **8º semestre de Engenharia de Software** e atuando como **Técnico de TI no NovoMix Supermercados**. Sou apaixonado por transformar lógica em soluções reais, com foco especial em automação de processos, infraestrutura, arquiteturas escaláveis e experiências de usuário fluidas.
 
 ---
 
 ## 🚀 O que estou estudando/trabalhando
 
-- 🔭 Atualmente focado em **Desenvolvimento Full-Stack**.
-- 🌱 Aprofundando conhecimentos em **Java**, **Spring Boot**, **C#**, **Web** e **Cloud Computing**.
+- 🔭 Atualmente focado em **Desenvolvimento Full-Stack** e **Automação de Processos de TI**.
+- 🌱 Aprofundando conhecimentos em **Java**, **Spring Boot**, **Next.js**, **Web** e **Infraestrutura/Cloud Computing**.
 
 ---
 
 ## 🛠️ Minha Stack Tecnológica
 
-**Backend:**
-- Java (Spring Boot, JPA, Security), C#, Node.js, SQL (PostgreSQL, MySQL).
+**Backend e Banco de Dados:**
+- Java (Spring Boot, JPA, Security), C#, Node.js, SQL (PostgreSQL, MySQL, SQL para ERPs).
 
 **Frontend:**
 - React, Next.js, TypeScript, JavaScript, Tailwind CSS, Thymeleaf.
 
-**Ferramentas:**
-- Git, Docker, Azure, Jira/Zendesk.
+**Infraestrutura e Ferramentas:**
+- Git, Docker, Windows Server, Active Directory (AD), Nuvem Azure, Jira, GLPI, OTRS.
 
 ---
 
 ## 📌 Projetos em Destaque
 
-* **Barbearia Premium:** Agendamento Full-Stack com Next.js e Supabase.
-* **Helpdesk System:** API em Spring Boot + Frontend em React.
-* **IT Manager:** Gestão de ativos com Java e Thymeleaf.
+* **Helpdesk System:** API em Spring Boot + Frontend em React para gerenciamento de chamados de suporte.
+* **IT Manager:** Sistema de gestão de ativos corporativos e inventário com Java e Thymeleaf.
+* **Barbearia Premium:** Plataforma de agendamento Full-Stack com Next.js e Supabase.
 
 ---
 
